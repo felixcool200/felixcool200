@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Rust and C++ projects**
 
-- 📫 How to reach me: **felixsoderman@gmail.com**
+- 📫 How to reach me: **felsod@kth.se**
 
 - ⚡ What I like to do: **Watch movies, tinker with my home server and programming**
 
