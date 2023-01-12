@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Felix <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="36px" height="36px" alt="VSCode"></h1>
+<h1 align="center">Hi 👋, I'm Felix</h1>
 <h3 align="center">A passionate Python, C++ and Rust developer from Sweden</h3>
 
 - 🔭 I’m currently pursuing a **MSc Information and Network Engineering**
