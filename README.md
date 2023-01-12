@@ -83,12 +83,6 @@
   </a>-->
 </p>
 
-<p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=felixcool200" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=felixcool200&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixcool200&theme=react&layout=compact" />
-</p>
-
 <!---
 felixcool200/felixcool200 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
