@@ -1,22 +1,17 @@
 <h1 align="center">Hi 👋, I'm Felix</h1>
-<h3 align="center">A passionate Python, C++ and Rust developer from Sweden</h3>
+<h3 align="center">A passionate C++, Rust and Python developer </h3>
 
-- 🔭 I’m currently pursuing a **MSc Information and Network Engineering**
+- 🔭 I’m currently working as a **Software Developer working mostly with C++ at Net Insight**
 
 - 👀 I’m interested in **Python, C++, Networking, Cloud computing, Virtualization and Linux**
 
-- 🌱 I’m currently learning **Rust, Wasm (using YEW in Rust), Docker compose and Clojure**
-
-- 👯 I’m looking to collaborate on **Rust and C++ projects**
-
-- 📫 How to reach me: **felsod@kth.se**
+- 🌱 I’m currently learning **Rust, Wasm (using YEW in Rust), Zig, Modern C++**
 
 - ⚡ What I like to do: **Watch movies, tinker with my home server and programming**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
   
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felsod@kth.se)
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felixsoderman/)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felixcool200/)
 [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/felixcool200)
